@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iiolo/tsTodolist.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/iiolo/tsTodolist.git/static/js/main.c13f41bd.chunk.js",
+    "main.js.map": "/iiolo/tsTodolist.git/static/js/main.c13f41bd.chunk.js.map",
+    "runtime-main.js": "/iiolo/tsTodolist.git/static/js/runtime-main.92d49d1f.js",
+    "runtime-main.js.map": "/iiolo/tsTodolist.git/static/js/runtime-main.92d49d1f.js.map",
+    "static/js/2.636ba4fa.chunk.js": "/iiolo/tsTodolist.git/static/js/2.636ba4fa.chunk.js",
+    "static/js/2.636ba4fa.chunk.js.map": "/iiolo/tsTodolist.git/static/js/2.636ba4fa.chunk.js.map",
+    "static/js/3.aa902822.chunk.js": "/iiolo/tsTodolist.git/static/js/3.aa902822.chunk.js",
+    "static/js/3.aa902822.chunk.js.map": "/iiolo/tsTodolist.git/static/js/3.aa902822.chunk.js.map",
+    "index.html": "/iiolo/tsTodolist.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/iiolo/tsTodolist.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.636ba4fa.chunk.js.LICENSE.txt": "/iiolo/tsTodolist.git/static/js/2.636ba4fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d49d1f.js",
+    "static/js/2.636ba4fa.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c13f41bd.chunk.js"
+  ]
+}
